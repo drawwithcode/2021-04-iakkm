@@ -123,7 +123,7 @@ function draw() {
   text(
     "A cryptocurrency (or “crypto”) is a digital currency that can be used to buy goods and services, but uses an online ledger with strong cryptography to secure online transactions",
     x,
-    windowHeight - 1065
+    windowHeight - 1095
   );
 
   if (x < -1800) {
